@@ -32,5 +32,5 @@ Feel free to explore, learn, and suggest improvements!
 
 ---
 
-## 📂 Folder Structure (Example)
+
 
